@@ -24,8 +24,7 @@ public class DemoTest3 {
 
 	// This is coming from github
 	// practing pulling
-		
-		
+			
 	}
 	
 	public void add(int a, int b) {

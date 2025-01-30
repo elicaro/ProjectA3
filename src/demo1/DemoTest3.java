@@ -13,7 +13,7 @@ public class DemoTest3 {
 		System.out.println(result);
 
              int x = 10;
-	     int y = 20;
+	     int y = 30;
 
 		if(x > y){
 			System.out.println("Greater");

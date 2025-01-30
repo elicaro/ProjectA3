@@ -12,9 +12,8 @@ public class DemoTest3 {
 		
 		System.out.println(result);
 
-
-             int x = 46;
-	     int y = 32;
+             int x = 10;
+	     int y = 20;
 
 		if(x > y){
 			System.out.println("Greater");
@@ -22,7 +21,7 @@ public class DemoTest3 {
 			System.out.println("Less");
 		}
 
-	// This is coming from github
+	// this is coming from github
 	// practing pulling
 			
 	}
